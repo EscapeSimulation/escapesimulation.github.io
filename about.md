@@ -4,17 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Welcome to EscapeSimulation,
+You can find EscapeSimulation at the following locations :
 
-find me at the following locations :
-
-* [Github.com](https://github.com/escapesimulation){:target="_blank"}
-* [YouTube.com](https://www.youtube.com/channel/UCWNtbyO_XiM7PdVpP8_dcxA){:target="_blank"}
-* [BitChute.com](https://www.bitchute.com/channel/ytECUUkLWpnE/){:target="_blank"}
-* [Minds.com](https://www.minds.com/escapesimulation/){:target="_blank"}
-
-If you would like to support me please donate via :
-
-* Bitcoin : `bc1qdrj8fk54q4tkjghgnt5vg4vpx0362400umpnlx`
-* Ethereum : `0x353622Aa41D289122328b5044Be18Eb74CE61763`
-* Litecoin : `LaFZ5uj4H4iBN3ut7YZY91NMk18BLS9Qiq`
+* [https://github.com/escapesimulation](https://github.com/escapesimulation){:target="_blank"}
+* [https://www.youtube.com/channel/UCWNtbyO_XiM7PdVpP8_dcxA](https://www.youtube.com/channel/UCWNtbyO_XiM7PdVpP8_dcxA){:target="_blank"}
+* [https://www.bitchute.com/channel/ytECUUkLWpnE/](https://www.bitchute.com/channel/ytECUUkLWpnE/){:target="_blank"}
+* [https://www.minds.com/escapesimulation/](https://www.minds.com/escapesimulation/){:target="_blank"}
