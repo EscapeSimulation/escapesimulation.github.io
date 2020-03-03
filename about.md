@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+nav: True
 ---
 
 You can find EscapeSimulation at the following locations :

@@ -2,6 +2,7 @@
 layout: page
 title: Donate
 permalink: /donate/
+nav: True
 ---
 
 If you would like to support me please donate via :

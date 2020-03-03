@@ -44,6 +44,8 @@ The website is hosted on Github Pages which has the benefits of using source con
 
 I'm going to try and keep the website simple and try focus on the content instead.
 
+I've spent the afternoon getting my computer ready for content creation! Created a new user account on the computer specifically for EscapeSimulation content.
+
 If you would like to support me please donate via :
 
 * Bitcoin : `bc1qdrj8fk54q4tkjghgnt5vg4vpx0362400umpnlx`
