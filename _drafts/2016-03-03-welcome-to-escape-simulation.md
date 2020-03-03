@@ -1,12 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
 ---
-
-Welcome to EscapeSimulation,
-
-find me at the following locations :
+Welcome to EscapeSimulation, find me on :
 
 * [Github.com](https://github.com/escapesimulation){:target="_blank"}
 * [YouTube.com](https://www.youtube.com/channel/UCWNtbyO_XiM7PdVpP8_dcxA){:target="_blank"}
