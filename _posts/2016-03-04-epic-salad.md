@@ -15,6 +15,7 @@ I just got a huge container and sat down and chopped the following ingredients :
 * Black Beans
 * Chick Peas
 * Red Onion
+* Apples
 * Tomato
 * Grapes
 * Dried Oregano 
@@ -22,3 +23,10 @@ I just got a huge container and sat down and chopped the following ingredients :
 * Carrots
 * Salt and Pepper 
 * Lots of Olive Oil
+
+Extra ingredients for next time :
+
+* Apple cider vinegar
+* Lentils
+* Olives
+
