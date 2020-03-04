@@ -11,6 +11,7 @@ I just got a huge container and sat down and chopped the following ingredients :
 * Broccoli Sprouts
 * Tomato
 * Mushroom
+* Celery
 * Black Beans
 * Chick Peas
 * Red Onion
